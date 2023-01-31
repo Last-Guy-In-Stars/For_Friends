@@ -1,5 +1,5 @@
 # Тестовые данные.
-TEST_DATA: list[tuple[int, str, bool]] = [ # Вложенный кортеж() в списки[], tuple преобразовал 
+TEST_DATA: list[tuple[int, str, bool]] = [
     (44, 'success', True),
     (16, 'failure', True),
     (4, 'success', False),
